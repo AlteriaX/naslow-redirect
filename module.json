@@ -2,7 +2,7 @@
     "disableAutoUpdate": false,
     "name": "naslow-redirect",
     "author": "Alteria",
-    "description": "Redirects you when teleporting from city to Naslow map area.",
+    "description": "Redirects you when teleporting to a city to Naslow map area.",
     "servers": ["https://raw.githubusercontent.com/AlteriaX/naslow-redirect/master/"],
 	"supportUrl": "https://github.com/AlteriaX/naslow-redirect/issues"
 }
